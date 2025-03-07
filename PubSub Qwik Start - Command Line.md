@@ -1,7 +1,4 @@
-# Pub/Sub: Qwik Start - Command Line || [GSP095](https://www.cloudskillsboost.google/focuses/925?parent=catalog) ||
-
-## Solution [here](https://youtu.be/dGZv09mWsQI)
-
+# Pub/Sub: Qwik Start - Command Line 
 ### Run the following Commands in CloudShell
 
 ```
@@ -17,7 +14,3 @@ sudo chmod +x gsp095.sh
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
 
 #### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
